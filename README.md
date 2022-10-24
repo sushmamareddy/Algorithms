@@ -1,6 +1,6 @@
 # Algorithms
 
-      Number Theory
+   Number Theory
       1) Fibanacci numbers
       2) Nth Fibanacci number
       3) Write an Efficient Method to Check if a Number is Multiple of 3
